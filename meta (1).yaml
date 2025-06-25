@@ -1,0 +1,6 @@
+artifact_location: file:///content/mlruns/533434645777111088
+creation_time: 1750767052501
+experiment_id: '533434645777111088'
+last_update_time: 1750767052501
+lifecycle_stage: active
+name: rossmann_sales_forecast
